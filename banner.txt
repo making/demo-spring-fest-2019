@@ -1,0 +1,18 @@
+                                      ${AnsiColor.22}@                        
+                                     ${AnsiColor.22}@${AnsiColor.34}@${AnsiColor.22}@                       
+                                   ${AnsiColor.22}@${AnsiColor.34}@@@@@${AnsiColor.22}@                       
+                                  ${AnsiColor.22}@${AnsiColor.34}@@@@@@@${AnsiColor.22}@                      
+                                 ${AnsiColor.22}@${AnsiColor.34}@@@@@@@@@${AnsiColor.22}@                     
+                                ${AnsiColor.22}@${AnsiColor.34}@@@@@@@@@@@${AnsiColor.22}@                   
+                               ${AnsiColor.22}@${AnsiColor.34}@@${AnsiColor.119}${AnsiColor.234}.${AnsiColor.119}@@@@@@@${AnsiColor.234}.${AnsiColor.34}@@${AnsiColor.22}@              
+                              ${AnsiColor.22}@${AnsiColor.34}@${AnsiColor.119}@@@@@@@@@@@@${AnsiColor.119}@${AnsiColor.34}@${AnsiColor.22}@                 
+                             ${AnsiColor.22}@${AnsiColor.34}@${AnsiColor.119}@@@${AnsiColor.234}..${AnsiColor.119}@@@@@${AnsiColor.234}..${AnsiColor.119}@@@${AnsiColor.34}@${AnsiColor.22}@                
+                             ${AnsiColor.22}@${AnsiColor.34}@${AnsiColor.119}@@@@@@@@@@@@@@${AnsiColor.119}@${AnsiColor.34}@${AnsiColor.22}@                
+                             ${AnsiColor.22}@${AnsiColor.34}@${AnsiColor.119}@@${AnsiColor.234}.${AnsiColor.119}@@@@@@@@@${AnsiColor.234}.${AnsiColor.119}@@${AnsiColor.34}@${AnsiColor.22}@                
+                              ${AnsiColor.22}@${AnsiColor.119}@@@${AnsiColor.234}.........${AnsiColor.119}@@@${AnsiColor.22}@                 
+                               ${AnsiColor.22}@${AnsiColor.119}@@@@@@@@@@@@@${AnsiColor.22}@                 
+${AnsiColor.34}     ooo ooooo o    o  ooooo${AnsiStyle.NORMAL}    ${AnsiColor.22}@${AnsiColor.119}@@@@@@@@@@@${AnsiColor.22}@                   
+${AnsiColor.34}       o oo    o    o o     ${AnsiStyle.NORMAL}       ${AnsiColor.22}@${AnsiColor.119}@@@@@@${AnsiColor.22}@                     
+${AnsiColor.34}       o    oo o    o o    o${AnsiStyle.NORMAL}          ${AnsiColor.22}@@                       
+${AnsiColor.34}    oooo ooooo  oooo   ooooo${AnsiStyle.NORMAL}          ${AnsiColor.22}@@                        
+                                     @@${AnsiStyle.NORMAL}      
